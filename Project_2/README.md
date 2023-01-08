@@ -4,3 +4,9 @@ L'objectif était d'augmenter la luminosité de la led ( LEDBUILT ) chaque fois 
 Le programme peut être executé en deux méthode : 
   1- Directement sur le terminal en uttilisant la commande edge-impulse-run-impulse
   2-Via l'IDE arduino
+
+<ol>
+  <li>  Directement sur le terminal en uttilisant la commande edge-impulse-run-impulse</li>
+  <li>Via l'IDE arduino</li>
+
+</ol>

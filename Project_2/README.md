@@ -2,8 +2,6 @@ Dans ce projet, on a réaliser un modèle de reconnaissance des mots ( FPGA, Mic
 Ensuite, on a déployé le modèle dans notre carte Arduino pour tester ses performances en utilisant le microphone de l'Arduino.
 L'objectif était d'augmenter la luminosité de la led ( LEDBUILT ) chaque fois on dit un mot parmi les mots dans la liste .
 Le programme peut être executé en deux méthode : 
-  1- Directement sur le terminal en uttilisant la commande edge-impulse-run-impulse
-  2-Via l'IDE arduino
 
 <ol>
   <li>  Directement sur le terminal en uttilisant la commande edge-impulse-run-impulse</li>

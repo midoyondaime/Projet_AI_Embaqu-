@@ -28,7 +28,7 @@ Here i loaded 678 photos splitted :
  20%  for test.
 # 5.1.2 Step 2: Create Impulse
 
-![](capture3.png)
+![](capture7.png)
 
 # 5.1.3 Model testing & deployement
 As you can see, we have a relatively strong model.

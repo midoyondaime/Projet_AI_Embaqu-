@@ -9,8 +9,12 @@ the most crucial aspect of the project is creating the dataset. The images for c
 
 # 3. Model's choice : 
 Choosing a model is crucial for our project. We need to bear in mind the amount of RAM that is accessible while using Arduino Nano ble 33.
-![](capture1.jpg)
 the choice will be  MobileNet model family.
+
+![](capture7.jpg)
+
+![](capture1.jpg)
+
 
 # 5. Training : 
 We will train the model with 2 different methods : 

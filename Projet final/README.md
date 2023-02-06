@@ -18,14 +18,17 @@ We will train the model with 2 different methods :
 # 5.1 Method 1 : Edge Impulse 
 # 5.1.1 Step 1 : Data Acquisition 
 ![](capture2.png)
+
 Here i loaded 678 photos splitted : 
  80%  for trainning.
  20%  for test.
 # 5.1.2 Step 2: Create Impulse
+
 ![](capture3.png)
 
 # 5.1.3 Model testing & deployement
 As you can see, we have a relatively strong model.
+
 ![](capture4.png)
 
 
@@ -33,6 +36,7 @@ As you can see, we have a relatively strong model.
 We based our work on this tutoriel in Google Colab (https://gist.github.com/gheesung/eb0076e040ba53d5be2ad2db1c70cf82)
 
 After the training, we get the following files 
+
 ![](capture5.png)
 
 We need to do more few changes before deploy our model.Modify model_settings.cpp by changing kNumChannels to 3 (for red, green, and blue) and kCategoryCount to 2 in model_settings.h because we have 2 classes.

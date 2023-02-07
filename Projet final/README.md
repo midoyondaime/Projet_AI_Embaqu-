@@ -47,7 +47,7 @@ We need to do more few changes before deploy our model.Modify model_settings.cpp
 
 
 # Result
-![](capture6.png)
+![](photo2.jpg)
 
 
 
